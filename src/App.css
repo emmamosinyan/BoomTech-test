@@ -1,0 +1,19 @@
+#root {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  overflow-x: hidden;
+
+  @media (max-width: 768px) {
+    padding: 0;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
